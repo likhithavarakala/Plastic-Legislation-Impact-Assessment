@@ -15,9 +15,3 @@ The study suggests that plastic bans are more effective than taxes in curbing po
 - **5 Gyres**: Details on plastic waste from cleanups.
 - **National Conference of State Legislatures (NCSL)**: Information on state legislations.
 - **US Census Bureau**: Population data.
-
-## Further Details
-For a deeper dive into the methodology, findings, and interactive dashboards, visit the project's detailed pages linked below:
-- [Interactive Dashboards](URL-to-dashboard)
-- [Full Report](URL-to-full-report)
-- [Methodology and Data Sources](URL-to-methodology)
